@@ -1,0 +1,66 @@
+Redis-Master-1:
+  command:
+  - redis-server
+  - /usr/local/etc/redis/redis.conf
+  - --port 6379
+  net: "host"
+  tty: true
+  image: 192.168.56.10:5000/my_redis
+  mem_limit: 1000000000
+  labels:
+    io.rancher.scheduler.affinity:host_label: Node=Node1
+Redis-Master-2:
+  command:
+  - redis-server
+  - /usr/local/etc/redis/redis.conf
+  - --port 6379
+  net: "host"
+  tty: true
+  image: 192.168.56.10:5000/my_redis
+  mem_limit: 1000000000
+  labels:
+    io.rancher.scheduler.affinity:host_label: Node=Node2
+Redis-Master-3:
+  command:
+  - redis-server
+  - /usr/local/etc/redis/redis.conf
+  - --port 6379
+  net: "host"
+  tty: true
+  image: 192.168.56.10:5000/my_redis
+  mem_limit: 1000000000
+  labels:
+    io.rancher.scheduler.affinity:host_label: Node=Node3
+Redis-Slave-1:
+  command:
+  - redis-server
+  - /usr/local/etc/redis/redis.conf
+  - --port 7379
+  net: "host"
+  tty: true
+  image: 192.168.56.10:5000/my_redis
+  mem_limit: 1000000000
+  labels:
+    io.rancher.scheduler.affinity:host_label: Node=Node1
+Redis-Slave-2:
+  command:
+  - redis-server
+  - /usr/local/etc/redis/redis.conf
+  - --port 7379
+  net: "host"
+  tty: true
+  image: 192.168.56.10:5000/my_redis
+  mem_limit: 1000000000
+  labels:
+    io.rancher.scheduler.affinity:host_label: Node=Node2
+Redis-Slave-3:
+  command:
+  - redis-server
+  - /usr/local/etc/redis/redis.conf
+  - --port 7379
+  net: "host"
+  tty: true
+  image: 192.168.56.10:5000/my_redis
+  mem_limit: 1000000000
+  labels:
+    io.rancher.scheduler.affinity:host_label: Node=Node3

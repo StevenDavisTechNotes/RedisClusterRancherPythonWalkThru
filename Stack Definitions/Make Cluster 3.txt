@@ -1,0 +1,5 @@
+# 3 server config
+/usr/share/doc/redis-tools/examples/redis-trib.rb create 192.168.56.21:6379 192.168.56.22:6379 192.168.56.23:6379
+/usr/share/doc/redis-tools/examples/redis-trib.rb add-node --slave 192.168.56.22:7379 192.168.56.21:6379
+/usr/share/doc/redis-tools/examples/redis-trib.rb add-node --slave 192.168.56.23:7379 192.168.56.22:6379
+/usr/share/doc/redis-tools/examples/redis-trib.rb add-node --slave 192.168.56.21:7379 192.168.56.23:6379

@@ -1,0 +1,79 @@
+﻿2016-06-11 14:20:09.905122publishing 48
+                          Received 48
+2016-06-11 14:20:10.008219      publishing 49
+                                Received 49
+2016-06-11 14:20:10.110490              publishing 50
+                                        Received 50
+2016-06-11 14:20:10.213337                      publishing 51
+                                                Received 51
+2016-06-11 14:20:10.316419                              publishing 52
+                                                        Received 52
+2016-06-11 14:20:10.419845                                      publishing 53
+                                                                Received 53
+('Get Error:', <class 'rediscluster.exceptions.ClusterError'>)
+Missed 1 payloads for 5
+2016-06-11 14:20:10.933867publishing 54
+                          Received 54
+2016-06-11 14:20:11.036380      publishing 55
+                                Received 55
+('Set Error:', <class 'rediscluster.exceptions.ClusterError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterError'>)
+Missed 1 payloads for 1
+2016-06-11 14:20:11.958405              publishing 56
+                                        Received 56
+2016-06-11 14:20:12.061983                      publishing 57
+                                                Received 57
+2016-06-11 14:20:12.165117                              publishing 58
+                                                        Received 58
+2016-06-11 14:20:12.270913                                      publishing 59
+                                                                Received 59
+('Set Error:', <class 'rediscluster.exceptions.ClusterError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterError'>)
+Missed 1 payloads for 5
+2016-06-11 14:20:13.252015publishing 60
+                          Received 60
+2016-06-11 14:20:13.354324      publishing 61
+                                Received 61
+('Set Error:', <class 'rediscluster.exceptions.ClusterError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterError'>)
+Missed 1 payloads for 1
+2016-06-11 14:20:14.377013              publishing 62
+                                        Received 62
+2016-06-11 14:20:14.556787                      publishing 63
+                                                Received 63
+2016-06-11 14:20:14.660265                              publishing 64
+                                                        Received 64
+2016-06-11 14:20:14.762928                                      publishing 65
+                                                                Received 65
+('Set Error:', <class 'rediscluster.exceptions.ClusterError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterError'>)
+Missed 1 payloads for 5
+2016-06-11 14:20:15.682339publishing 66
+                          Received 66
+2016-06-11 14:20:15.785758      publishing 67
+                                Received 67
+('Set Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+Missed 1 payloads for 1
+2016-06-11 14:20:16.388099              publishing 68
+                                        Received 68
+('Set Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+Missed 6 payloads for 2
+2016-06-11 14:20:16.768918                      publishing 69
+                                                Received 69
+2016-06-11 14:20:16.871558                              publishing 70
+                                                        Received 70
+2016-06-11 14:20:16.975352                                      publishing 71
+                                                                Received 71
+2016-06-11 14:20:17.079821publishing 72
+                          Received 72
+2016-06-11 14:20:17.181821      publishing 73
+                                Received 73
+2016-06-11 14:20:17.286218              publishing 74
+                                        Received 74
+2016-06-11 14:20:17.389549                      publishing 75
+                                                Received 75
+2016-06-11 14:20:17.491948                              publishing 76
+                                                        Received 76
+2016-06-11 14:20:17.595463                                      publishing 77
+                                                                Received 77

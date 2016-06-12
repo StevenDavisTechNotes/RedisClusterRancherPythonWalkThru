@@ -1,0 +1,89 @@
+﻿2016-06-11 14:23:43.281249publishing 132
+                          Received 132
+2016-06-11 14:23:43.383343      publishing 133
+                                Received 133
+2016-06-11 14:23:43.485610              publishing 134
+                                        Received 134
+2016-06-11 14:23:43.589771                      publishing 135
+                                                Received 135
+2016-06-11 14:23:43.691519                              publishing 136
+                                                        Received 136
+2016-06-11 14:23:43.794070                                      publishing 137
+                                                                Received 137
+2016-06-11 14:23:43.896414publishing 138
+                          Received 138
+2016-06-11 14:23:43.999456      publishing 139
+                                Received 139
+('Get Error:', <class 'rediscluster.exceptions.ClusterError'>)
+Missed 1 payloads for 1
+2016-06-11 14:23:44.612587              publishing 140
+                                        Received 140
+2016-06-11 14:23:44.716411                      publishing 141
+                                                Received 141
+2016-06-11 14:23:44.818553                              publishing 142
+                                                        Received 142
+2016-06-11 14:23:44.921427                                      publishing 143
+                                                                Received 143
+('Set Error:', <class 'rediscluster.exceptions.ClusterError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterError'>)
+Missed 1 payloads for 5
+2016-06-11 14:23:45.841176publishing 144
+                          Received 144
+2016-06-11 14:23:45.943559      publishing 145
+                                Received 145
+('Set Error:', <class 'rediscluster.exceptions.ClusterError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterError'>)
+Missed 1 payloads for 1
+2016-06-11 14:23:47.051283              publishing 146
+                                        Received 146
+2016-06-11 14:23:47.154087                      publishing 147
+                                                Received 147
+2016-06-11 14:23:47.256561                              publishing 148
+                                                        Received 148
+2016-06-11 14:23:47.359170                                      publishing 149
+                                                                Received 149
+('Set Error:', <class 'rediscluster.exceptions.ClusterError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterError'>)
+Missed 1 payloads for 5
+2016-06-11 14:23:48.482674publishing 150
+                          Received 150
+2016-06-11 14:23:48.587164      publishing 151
+                                Received 151
+('Set Error:', <class 'rediscluster.exceptions.ClusterError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterError'>)
+Missed 1 payloads for 1
+2016-06-11 14:23:49.797472              publishing 152
+                                        Received 152
+2016-06-11 14:23:49.901282                      publishing 153
+                                                Received 153
+2016-06-11 14:23:50.003228                              publishing 154
+                                                        Received 154
+2016-06-11 14:23:50.105891                                      publishing 155
+                                                                Received 155
+('Set Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+Missed 1 payloads for 5
+2016-06-11 14:23:50.816988publishing 156
+                          Received 156
+('Set Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+Missed 2 payloads for 0
+2016-06-11 14:23:51.334017      publishing 157
+                                Received 157
+('Set Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+Missed 3 payloads for 1
+2016-06-11 14:23:51.770984              publishing 158
+                                        Received 158
+('Set Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+Missed 4 payloads for 2
+2016-06-11 14:23:52.207750                      publishing 159
+                                                Received 159
+('Set Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+Missed 5 payloads for 3
+2016-06-11 14:23:52.625124                              publishing 160
+                                                        Received 160
+('Set Error:', <class 'rediscluster.exceptions.ClusterDownError'>)
+('Get Error:', <class 'rediscluster.exceptions.ClusterDownError'>)

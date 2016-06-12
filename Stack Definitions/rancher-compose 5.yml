@@ -1,0 +1,30 @@
+﻿Redis-Master-1:
+  scale: 1
+Redis-Master-2:
+  scale: 1
+Redis-Master-3:
+  scale: 1
+Redis-Master-4:
+  scale: 1
+Redis-Master-5:
+  scale: 1
+Redis-Slave-1-1:
+  scale: 1
+Redis-Slave-1-2:
+  scale: 1
+Redis-Slave-2-1:
+  scale: 1
+Redis-Slave-2-2:
+  scale: 1
+Redis-Slave-3-1:
+  scale: 1
+Redis-Slave-3-2:
+  scale: 1
+Redis-Slave-4-1:
+  scale: 1
+Redis-Slave-4-2:
+  scale: 1
+Redis-Slave-5-1:
+  scale: 1
+Redis-Slave-5-2:
+  scale: 1
